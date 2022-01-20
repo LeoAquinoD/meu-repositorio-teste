@@ -1,2 +1,5 @@
-# meu-repositorio-teste
-Repositório criado para para meu primeiro projeto da DIO 
+# Primeiro projeto DIO - Git/GitHub
+
+# Criado para para meu primeiro projeto da DIO  
+
+Primeiro de Muitos!
